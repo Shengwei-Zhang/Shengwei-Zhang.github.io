@@ -1998,7 +1998,7 @@ kbd {
   left: 0;
 }
 .mode-track-moon::before {
-  content: '🌜';
+  content: '🌙';
 }
 .mode-track-sun {
   right: 0;
